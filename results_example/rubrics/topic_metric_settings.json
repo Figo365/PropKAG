@@ -1,0 +1,285 @@
+{
+  "description": "40 topic-by-criterion settings referencing the saved four-criterion rubric and ten topic reference cards; not 40 independently authored rubrics.",
+  "settings": [
+    {
+      "topic_id": "T1",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T1",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T1",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T1",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T1",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T1",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T1",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T2",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T2",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T2",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T2",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T2",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T2",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T2",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T3",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T3",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T3",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T3",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T3",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T3",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T3",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T4",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T4",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T4",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T4",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T4",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T4",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T4",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T5",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T5",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T5",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T5",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T5",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T5",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T5",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T6",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T6",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T6",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T6",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T6",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T6",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T6",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T7",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T7",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T7",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T7",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T7",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T7",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T7",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T8",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T8",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T8",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T8",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T8",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T8",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T8",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T9",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T9",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T9",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T9",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T9",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T9",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T9",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T10",
+      "criterion_id": "organization",
+      "global_rubric_dimension_id": "organization",
+      "topic_reference_card_id": null,
+      "uses_topic_reference_card": false
+    },
+    {
+      "topic_id": "T10",
+      "criterion_id": "relevance",
+      "global_rubric_dimension_id": "relevance",
+      "topic_reference_card_id": "T10",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T10",
+      "criterion_id": "synthesis_depth",
+      "global_rubric_dimension_id": "synthesis_depth",
+      "topic_reference_card_id": "T10",
+      "uses_topic_reference_card": true
+    },
+    {
+      "topic_id": "T10",
+      "criterion_id": "overall_usefulness",
+      "global_rubric_dimension_id": "overall_usefulness",
+      "topic_reference_card_id": "T10",
+      "uses_topic_reference_card": true
+    }
+  ]
+}

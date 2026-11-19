@@ -1,0 +1,30 @@
+# Credentials and local overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Only the explicitly included dataset is tracked; other inputs remain local.
+data/*
+!data/dataset.csv
+
+# Other inputs, outputs and caches are excluded.
+datasets/
+dataset/
+result/
+results/
+output/
+outputs/
+runs/
+logs/
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.numba_cache/
+.mplconfig/
+.cache/
+.venv/
+venv/
+.DS_Store

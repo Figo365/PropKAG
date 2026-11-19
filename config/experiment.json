@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "command_line": {
+    "initial_top_k": 40,
+    "top_k": 30,
+    "min_score": 0.0,
+    "graph_threshold": 0.6,
+    "feedback_candidates_per_query": 5
+  },
+  "environment": {
+    "LLM_JSON_MODE": "true",
+    "LLM_CONTRIBUTION_WORKERS": "10",
+    "LLM_SYNTHESIS_WORKERS": "10",
+    "LLM_TYPE_INTEGRATION_WORKERS": "1",
+    "LLM_TYPE_INTEGRATION_TIMEOUT_SECONDS": "120",
+    "LLM_GROUP_NAMING_BATCH_SIZE": "8",
+    "LLM_GROUP_NAMING_WORKERS": "3",
+    "LLM_GAP_DIAGNOSIS_WORKERS": "10",
+    "LLM_CANDIDATE_FILTER_WORKERS": "10",
+    "LITERATURE_RETRIEVAL_WORKERS": "4",
+    "LITERATURE_RETRIEVAL_BATCH_SIZE": "4",
+    "LITERATURE_RETRIEVAL_BATCH_DELAY_SECONDS": "2",
+    "LITERATURE_RETRIEVAL_RETRY_BASE_SECONDS": "2",
+    "LITERATURE_RETRIEVAL_RETRY_MAX_SECONDS": "30",
+    "MAX_GAP_DIRECTIONS_PER_GROUP": "3",
+    "GROUP_GRAPH_EDGE_RULE": "threshold",
+    "GROUP_LEIDEN_RESOLUTION": "1.0",
+    "GROUP_LEIDEN_SEED": "42",
+    "EMBEDDING_DIMENSIONS": "1024",
+    "EMBEDDING_BATCH_SIZE": "16",
+    "EMBEDDING_MAX_CHARS": "2000"
+  }
+}

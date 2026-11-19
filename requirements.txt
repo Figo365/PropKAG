@@ -1,0 +1,2 @@
+# Direct dependency from the original main implementation; not a historical lockfile.
+graspologic>=3.4,<4
